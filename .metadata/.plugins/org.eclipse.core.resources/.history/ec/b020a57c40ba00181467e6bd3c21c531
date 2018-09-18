@@ -1,0 +1,18 @@
+package com.e3.cart.service.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Service;
+
+import com.e3.common.jedis.JedisClient;
+import com.e3.mapper.TbItemMapper;
+
+@Service
+public class CartServiceImpl {
+	@Autowired
+	private JedisClient jedisClient;
+	@Value("${REDIS_CART_PRE}")
+	private String REDIS_CART_PRE;
+	@Autowired
+	private TbItemMapper itemMapper;
+}

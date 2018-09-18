@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=e3-common/E:\/worksoft\/jdk1.8\/jre\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1503308337724"/>
+<typeInfo handle="=e3-content-interface/src\/main\/java&lt;com.e3.content.service{ContentCategoryService.java[ContentCategoryService" modifiers="513" timestamp="1530779831406"/>
+<typeInfo handle="=e3-search-service/E:\/worksoft\/maven\/repository\/org\/apache\/activemq\/activemq-all\/5.11.2\/activemq-all-5.11.2.jar&lt;javax.jms(MessageListener.class[MessageListener" modifiers="1537" timestamp="1531711178631"/>
+</typeInfoHistroy>

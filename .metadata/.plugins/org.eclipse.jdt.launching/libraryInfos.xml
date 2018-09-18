@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="E:\worksoft\jdk1.8" version="1.8.0_144">
+<bootpath>
+<entry path="E:\worksoft\jdk1.8\jre\lib\resources.jar"/>
+<entry path="E:\worksoft\jdk1.8\jre\lib\rt.jar"/>
+<entry path="E:\worksoft\jdk1.8\jre\lib\sunrsasign.jar"/>
+<entry path="E:\worksoft\jdk1.8\jre\lib\jsse.jar"/>
+<entry path="E:\worksoft\jdk1.8\jre\lib\jce.jar"/>
+<entry path="E:\worksoft\jdk1.8\jre\lib\charsets.jar"/>
+<entry path="E:\worksoft\jdk1.8\jre\lib\jfr.jar"/>
+<entry path="E:\worksoft\jdk1.8\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\worksoft\jdk1.8\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\worksoft\jdk1.8\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="E:\worksoft\jre1.8.0_144" version="1.8.0_144">
+<bootpath>
+<entry path="E:\worksoft\jre1.8.0_144\lib\resources.jar"/>
+<entry path="E:\worksoft\jre1.8.0_144\lib\rt.jar"/>
+<entry path="E:\worksoft\jre1.8.0_144\lib\sunrsasign.jar"/>
+<entry path="E:\worksoft\jre1.8.0_144\lib\jsse.jar"/>
+<entry path="E:\worksoft\jre1.8.0_144\lib\jce.jar"/>
+<entry path="E:\worksoft\jre1.8.0_144\lib\charsets.jar"/>
+<entry path="E:\worksoft\jre1.8.0_144\lib\jfr.jar"/>
+<entry path="E:\worksoft\jre1.8.0_144\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\worksoft\jre1.8.0_144\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\worksoft\jre1.8.0_144\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

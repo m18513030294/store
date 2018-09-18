@@ -1,0 +1,11 @@
+127.0.0.1 - - [05/Sep/2018:23:05:08 +0800] "GET /cart/add/153173497573703.html?num=3 HTTP/1.1" 200 18544 http-bio-8090-exec-7 3470
+127.0.0.1 - - [05/Sep/2018:23:05:12 +0800] "GET /cart/cart.html HTTP/1.1" 200 17937 http-bio-8090-exec-9 1428
+127.0.0.1 - - [05/Sep/2018:23:05:12 +0800] "GET /css/jquery.alerts.css?v=20160713 HTTP/1.1" 200 754 http-bio-8090-exec-8 18
+127.0.0.1 - - [05/Sep/2018:23:05:12 +0800] "GET /js/jquery.price_format.2.0.min.js HTTP/1.1" 200 2652 http-bio-8090-exec-8 14
+127.0.0.1 - - [05/Sep/2018:23:05:12 +0800] "GET /js/jquery.alerts.js?v=20160713 HTTP/1.1" 200 13958 http-bio-8090-exec-10 8
+127.0.0.1 - - [05/Sep/2018:23:05:12 +0800] "GET /js/cart.js?v=20160713 HTTP/1.1" 200 1346 http-bio-8090-exec-8 20
+127.0.0.1 - - [05/Sep/2018:23:05:12 +0800] "GET /js/cookie.js?v=20160416222 HTTP/1.1" 200 10745 http-bio-8090-exec-10 8
+127.0.0.1 - - [05/Sep/2018:23:05:12 +0800] "GET /js/shadow.js?v=20160416 HTTP/1.1" 200 964 http-bio-8090-exec-10 5
+127.0.0.1 - - [05/Sep/2018:23:05:12 +0800] "GET /js/common.js HTTP/1.1" 200 14205 http-bio-8090-exec-7 9
+127.0.0.1 - - [05/Sep/2018:23:05:12 +0800] "GET /images/step_01.jpg HTTP/1.1" 200 5629 http-bio-8090-exec-7 13
+127.0.0.1 - - [05/Sep/2018:23:05:12 +0800] "GET /images/cartbg.gif HTTP/1.1" 200 4177 http-bio-8090-exec-7 6

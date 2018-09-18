@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Sat Jun 30 23:45:33 CST 2018
+org.eclipse.jst.j2ee.server\:e3-manager-interface=WEB-INF/lib/e3-manager-interface-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:e3-manager-pojo=WEB-INF/lib/e3-manager-pojo-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:/binary\:E\:\\worksoft\\maven\\repository\\org\\springframework\\spring-web\\4.2.4.RELEASE\\spring-web-4.2.4.RELEASE.jar=WEB-INF/lib/spring-web-4.2.4.RELEASE.jar
+org.eclipse.jst.j2ee.server\:e3-manager-dao=WEB-INF/lib/e3-manager-dao-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:e3-common=WEB-INF/lib/e3-common-0.0.1-SNAPSHOT.jar

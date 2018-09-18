@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:22:53:45 +0800] "GET /search.html?keyword=iphone HTTP/1.1" 200 21300 http-bio-8085-exec-1 19711
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:22:53:45 +0800] "GET /js/jquery-1.5.1.min.js HTTP/1.1" 200 16384 http-bio-8085-exec-3 95
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:22:53:59 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8085-exec-6 15
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:22:53:59 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8085-exec-7 13
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:22:54:00 +0800] "GET /search.html?keyword=%E4%B8%89%E6%98%9F HTTP/1.1" 200 22362 http-bio-8085-exec-5 1184

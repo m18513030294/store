@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:22:54:26 +0800] "GET /js/cart.js?v=20160713 HTTP/1.1" 304 - http-bio-8086-exec-2 123
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:22:54:26 +0800] "GET /css/common.css?v=20160713 HTTP/1.1" 200 17458 http-bio-8086-exec-4 48
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:22:54:26 +0800] "GET /css/jquery.alerts.css?v=20160713 HTTP/1.1" 200 2441 http-bio-8086-exec-3 105
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:22:54:27 +0800] "GET /js/e3mall.js HTTP/1.1" 200 652 http-bio-8086-exec-5 32
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:22:54:27 +0800] "GET /item/153173497573703.html HTTP/1.1" 200 159535 http-bio-8086-exec-1 24226
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:22:54:27 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8086-exec-6 18
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:23:05:00 +0800] "GET /item/153173497573703.html HTTP/1.1" 200 159535 http-bio-8086-exec-4 4297
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:23:05:01 +0800] "GET /images/productbg.gif HTTP/1.1" 200 1189 http-bio-8086-exec-4 14
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:23:05:01 +0800] "GET /images/header.png HTTP/1.1" 200 10751 http-bio-8086-exec-5 12
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:23:05:01 +0800] "GET /images/logo66.png HTTP/1.1" 200 16384 http-bio-8086-exec-8 10
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:23:05:01 +0800] "GET /images/cate_bg.jpg HTTP/1.1" 200 296 http-bio-8086-exec-1 7
+0:0:0:0:0:0:0:1 - - [05/Sep/2018:23:05:01 +0800] "GET /images/psprite.gif HTTP/1.1" 200 5921 http-bio-8086-exec-6 8

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;e3-search-service&apos;" deleteContents="true" description="Delete resource &apos;e3-search-service&apos;" element1="/e3-search-service" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1531213847075"/>
+</session>

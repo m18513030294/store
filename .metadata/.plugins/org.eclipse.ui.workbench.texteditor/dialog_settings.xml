@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="结算" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="结算"/>
+			<item value="cartAdd"/>
+			<item value="加入购物车"/>
+			<item value="URLEncoder"/>
+			<item value="Blob_Column_List"/>
+			<item value="Base_Column_List"/>
+			<item value="ajax"/>
+			<item value="foreach"/>
+			<item value="dpreach"/>
+			<item value="image"/>
+			<item value="fmt"/>
+			<item value="jsp"/>
+			<item value="fileupload"/>
+			<item value="queueDestination"/>
+			<item value="configProperties"/>
+		</list>
+		<list key="replacehistory">
+			<item value="e3-manager"/>
+			<item value="e3-search"/>
+			<item value="192.168.246.130"/>
+			<item value="&amp;amp;"/>
+			<item value="com.e3"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="300" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="410" key="DIALOG_HEIGHT"/>
+		<item value="8" key="DIALOG_X_ORIGIN"/>
+		<item value="235" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
